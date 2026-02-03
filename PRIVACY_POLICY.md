@@ -1,10 +1,10 @@
-# Privacy Policy for GitHub PR Tracker
+# Privacy Policy for GitHub PR Live View
 
 **Last Updated:** February 3, 2026
 
 ## Overview
 
-GitHub PR Tracker ("the Extension") is a browser extension that helps you track your GitHub pull requests. We are committed to protecting your privacy and being transparent about our data practices.
+GitHub PR Live View ("the Extension") is a browser extension that helps you track your GitHub pull requests. We are committed to protecting your privacy and being transparent about our data practices.
 
 **In short:** We only access what's necessary to show your PRs. Your data stays in your browser. We don't track you, sell your data, or store anything on our servers.
 
@@ -128,7 +128,7 @@ We may update this Privacy Policy occasionally. Changes will be posted on this p
 ## Open Source
 
 This extension is open source. You can review the code to verify our privacy practices:
-[GitHub Repository](https://github.com/yourusername/gh-pr)
+[GitHub Repository](https://github.com/OysterD3/gh-pr)
 
 ---
 
@@ -136,7 +136,7 @@ This extension is open source. You can review the code to verify our privacy pra
 
 If you have questions about this Privacy Policy, please open an issue on our GitHub repository or contact:
 
-**Email:** your-email@example.com
+**Email:** oysterd3@gmail.com
 
 ---
 
